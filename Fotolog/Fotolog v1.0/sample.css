@@ -1,0 +1,26 @@
+
+.titulo{
+	float:clear;
+	color:blue;
+	font-style:italic;
+}
+
+.columright{
+	float:right;
+	max-width:60%;
+	padding:3em;
+
+}
+
+.tableStyle{
+	border: 1px gray dotted;
+	text-align:left;
+	background-color: silver;
+	margin:2em;
+	padding:1em;
+}
+
+.left{
+	float:left;
+	max-width:40%;
+}

@@ -1,0 +1,70 @@
+body{
+	background-color:#7C7A49;
+}
+.titulo{
+	margin: 1em;
+	padding:1em;
+	color:white;
+	border: 1px #C5C3BD solid;
+	background-color:#CD3B16;
+	font-size:2em;
+	letter-spacing:0.15em;
+	font-family:Arial;
+	font-weight:bold;
+}
+.formulario{
+	margin: 1em;
+	padding:1em;
+	color:white;
+	border: 1px #C5C3BD solid;
+	background-color:#453f19;
+	font-size:2em;
+	letter-spacing:0.15em;
+	font-family:Arial;
+	font-weight:bold;
+}
+.creditos{
+	margin: 1em;
+	padding:1em;
+	color:white;
+	border: 1px #C5C3BD solid;
+	background-color:#453f19;
+	font-size:1em;
+	letter-spacing:0.15em;
+	font-family:Arial;
+	font-weight:bold;
+}
+fieldset{
+		padding:1em;
+		margin:1em;
+		background-color:#453f19;
+		color:white;
+		font-size:1.5em;
+		font-family:verdana;
+}
+.columright{
+	float:right;
+	max-width:60%;
+
+}
+
+.tableStyle{
+	border: 1px gray dotted;
+	text-align:left;
+	background-color:#EAD38A;
+	font-family:verdana;
+	margin:2em;
+	padding:1em;
+}
+
+.left{
+	float:left;
+	max-width:40%;
+}
+.error{
+	border:red solid 1px; 
+	padding: 2em; 
+	color:red;
+	background-color:white;
+
+}

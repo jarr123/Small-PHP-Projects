@@ -1,0 +1,138 @@
+/* 7D8A2E,C9D787,FFFFFF,FFC0A9,FF8598 */
+/* B4AF91,787746,40411E,32331D,C03000 */
+/* 85DB18,CDE855,F5F6D4,A7C520,493F0B */
+/* E8E595,D0A825,40627C,26393D,FFFAE4 */
+
+body{
+	background-color:#7D8A2E;
+}
+
+h1{
+	border: 2px #40411E solid;
+	background-color:#C9D787;
+	padding:1em;
+	margin:1em;
+	font-family:verdana;
+	color:#40411E;
+}
+
+h2{
+	border: 1px #40411E solid;
+	background-color:#C9D787;
+	padding:0.5em;
+	margin-left:1.8em;
+	margin-right:1.8em;
+	font-family:verdana;
+	font-size:1.1em;
+	color:#40411E;
+
+		
+}
+
+ol{
+	border: 2px #26393D solid;
+	background-color:#D0A825;
+	padding:0.5em;
+	margin-left:2em;
+	margin-right:2em;
+
+
+	
+}
+
+li{
+	
+	margin-left:3em;
+	margin-right:3em;
+	padding:0.5em;
+	font-size:1.1em;
+	font-family:verdana;
+	color:white;
+	font-weight:bold;
+
+
+}
+
+a{
+	color:#40627C;
+}
+
+fieldset{
+	
+	border: 2px #26393D solid;
+	background-color:#D0A825;
+	margin-left:1.7em;
+	margin-right:1.7em;
+	padding:1em;
+	font-size:1.2em;
+	font-family:verdana;
+	color:#26393D;
+	
+}
+
+table{
+	margin-left:4em;
+	padding:0.15em;
+	border: .1em #083643 solid;
+	background-color:#476C5E;
+}
+.left{
+	float:left;
+	max-width:50%;
+	
+}
+.creditos{
+	position:absolute;
+	width:92%;
+	bottom:2em;
+	
+}
+.errorestitulo{
+	border:red solid 1px; 
+	padding: 1em; 
+	margin:1em;
+	font-size:1.5em;
+	margin-left:2em;
+	margin-right:2em;
+	font-family:verdana;
+	color:red; 
+	background-color:white;
+
+}
+.errores{
+	border:red solid 1px; 
+	padding: 1em; 
+	margin:1em;
+	margin-left:2em;
+	margin-right:2em;
+	color:red; 
+	background-color:white;
+	font-size:1em;
+	font-weight:bold;
+	
+}
+
+.ranking{
+	border: 1px black dotted;
+	background-color:#CD3B16;
+	color:white;
+	font-family:verdana;
+	font-size:1em;
+	padding:0.25em;
+	margin:2em;
+	margin-left:4em;
+	
+}
+
+.rankingletra1{
+	font-family:verdana;
+	background-color:#C9D787;
+	color:#CD3B16;	
+}
+.rankingletra2{
+	font-family:arial;
+	color:white;
+	padding-left:1em;
+	padding-right:1em;
+	background-color:#083643;
+}

@@ -1,0 +1,22 @@
+Liga BBVA	Real Madrid	6	FC Barcelona	2
+Liga BBVA	Real Madrid	6	Sevilla FC	2
+Liga BBVA	Real Madrid	7	Valencia FC	1
+Liga BBVA	FC Barcelona	4	Real Madrid	4
+Liga BBVA	FC Barcelona	6	Valencia FC	6
+Liga BBVA	Valencia FC	3	Real Madrid	1
+Liga BBVA	Valencia FC	4	Sevilla FC	2
+Liga BBVA	Sevilla FC	5	FC Barcelona	2
+Liga BBVA	Sevilla FC	5	Valencia FC	1
+Liga Peruana	Chito	4	Madrid	6
+Liga Rusa	CSK Moscú	5	Rubin Kazan	1
+Liga Rusa	Zenit	3	CSK Moscú	2
+Liga Rusa	CSK Moscú	1	Zenit	6
+erwe	df	3	sdf	6
+Liga adelante	Betis	4	Sevilla	3
+Liga adelante	Betis	4	Cadiz	5
+Liga adelante	Betis	1	Jerez	1
+Liga adelante	Sevilla	5	Cadiz	2
+Liga adelante	Jerez	3	Cadiz	2
+Liga adelante	Cadiz	2	Betis	4
+Liga Rusa	Rubin Kazan	6	Zenit	4
+Liga Rusa	Zenit	77	Rubin Kazan	99

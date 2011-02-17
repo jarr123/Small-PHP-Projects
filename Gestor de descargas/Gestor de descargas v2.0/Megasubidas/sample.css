@@ -1,0 +1,86 @@
+body{
+	background-color:#FF9840;
+}
+
+h1{
+	color:#A64D00;
+}
+fieldset{
+	padding:1em;
+	margin:1em;
+	font-family:verdana;
+	background-color:#FFDCB2;
+}
+.errorestitulo{
+	border:red solid 1px; 
+	padding: 1em; 
+	font-size:1.5em;
+	font-family:verdana;
+	color:red; 
+	background-color:white;
+}
+.errores{
+	border:red solid 1px; 
+	padding: 2em; 
+	color:red; 
+	background-color:white;
+}
+.indice{
+	margin: 1em;
+	padding:1em;
+	color:#A64D00;
+	border: 1px #BF7230 solid;
+	background-color:white;
+	font-size:1.5em;
+	font-family:Verdana;
+}
+.link{
+	margin: 1em;
+	padding:1em;
+	color:#A64D00;
+	border: 1px #BF7230 solid;
+	background-color:#FFDCB2;
+	font-size:1.5em;
+	font-family:Verdana;
+}
+.titulo{
+	margin: 1em;
+	padding:1em;
+	color:#A64D00;
+	border: 1px #BF7230 solid;
+	background-color:#FFDCB2;
+	font-size:2em;
+	letter-spacing:0.15em;
+	font-family:Arial;
+	font-weight:bold;
+}
+
+.tableStyle{
+	border: 1px #FF7600 dotted;
+	text-align:left;
+	background-color: #FFB473;
+	color:#A64D00;
+	margin:1em;
+	padding:1em;
+	font-size:1.5em;
+}
+.ranking{
+	border: 1px black dotted;
+	background-color:#CD3B16;
+	color:white;
+	font-family:verdana;
+	font-size:1em;
+	padding:0.25em;
+	
+}
+
+.rankingletra1{
+	font-family:verdana;
+	color:#CD3B16;	
+}
+.rankingletra2{
+	font-family:arial;
+	color:black;
+	padding-left:1em;
+	padding-right:1em;
+}

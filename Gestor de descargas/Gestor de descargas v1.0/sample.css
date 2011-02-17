@@ -1,0 +1,91 @@
+/*468966,FFF0A5,FFB03B,B64926,8E2800*/
+/*E6E2AF,A7A37E,EFECCA,046380,002F2F NUEVO*/
+
+body{
+	background-color:#EFECCA;
+}
+.formulario{
+	border: 2px #046380 dotted;
+	margin:1em;
+	padding:1em;
+	background-color:#468966;
+	font-family:verdana;
+	font-size:1.25em;
+	color:white;
+	width:50%;
+	
+}
+fieldset{
+	border: 2px #046380 dotted;
+	margin:1em;
+	padding:1em;
+	font-size:1.25em;
+	color:white;
+	background-color:#468966;
+	font-family:verdana;
+	width:50%;
+}
+.titulo{
+	background-color:#E6E2AF;
+	color:#046380;
+	padding:1em;
+	margin:1em;
+	font-family:verdana;
+	font-size:2em;
+	border: 2px solid #468966;
+	width:90%;
+	
+}
+.titulo2{
+	margin: 1em;
+	padding:1em;
+	color:white;
+	border: 1px #046380 solid;
+	background-color:#468966;
+	font-size:1.5em;
+	font-family:Verdana;
+	width:90%;
+}
+
+
+.tableStyle{
+	border: 2px #002F2F dotted;
+	text-align:left;
+	background-color: #046380;
+	color:white;
+	font-family:verdana;
+	margin:1em;
+	padding:1em;
+	font-size:1.1em;
+	width:90%;
+}
+
+.errorestitulo{
+	border:red solid 1px; 
+	padding: 1em; 
+	margin:1em;
+	font-size:1.5em;
+	font-family:verdana;
+	color:red; 
+	background-color:white;
+	width:90%;
+}
+.errores{
+	border:red solid 1px; 
+	padding: 1em; 
+	margin:1em;
+	color:red; 
+	background-color:white;
+	font-size:1.5em;
+	width:90%;
+}
+.link{
+	background-color:#E6E2AF;
+	color:#046380;
+	padding:1em;
+	margin:1em;
+	font-family:verdana;
+	font-size:1em;
+	border: 2px solid #468966;
+	
+}
